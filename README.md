@@ -20,5 +20,5 @@ A simple React Native chat application built with Expo.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/[your-username]/chat-app.git
+   git clone https://github.com/stefv21/chat-app.git
    cd chat-app
